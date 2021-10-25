@@ -5,3 +5,9 @@ x = [1,2,3,4,5,5]
 y = [1,2,3,4,5]
 has_duplicates(x) # True
 has_duplicates(y) # False
+
+"""
+Compara el largo de una lista con el largo 
+de un conjunto que es una colección desordenada de 
+valores NO repetidos y así ve si la lista tiene duplicados o no.
+"""
